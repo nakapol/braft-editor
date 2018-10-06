@@ -462,7 +462,7 @@ var external_react_default = /*#__PURE__*/__webpack_require__.n(external_react_)
     removeStyles: 'Remove Styles',
     headings: 'Headings',
     header: 'Header',
-    normal: 'Normal',
+    normal: 'Paragraph',
     orderedList: 'Ordered List',
     unorderedList: 'Unordered List',
     blockQuote: 'Quote',

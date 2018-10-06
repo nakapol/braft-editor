@@ -1168,9 +1168,9 @@ braft-convert@^2.1.4:
     draft-convert "^2.0.0"
     draft-js "^0.10.3"
 
-braft-finder@^0.0.10:
+"braft-finder@https://github.com/nakapol/braft-finder":
   version "0.0.10"
-  resolved "https://registry.yarnpkg.com/braft-finder/-/braft-finder-0.0.10.tgz#1620cd56f423bca07978db3faf646a03f56fdb52"
+  resolved "https://github.com/nakapol/braft-finder#aaeb567a580cd2e5d9671ea2ff4aef76712d94fb"
 
 braft-utils@^0.0.23:
   version "0.0.23"

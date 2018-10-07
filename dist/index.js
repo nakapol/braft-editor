@@ -471,7 +471,7 @@ var external_react_default = /*#__PURE__*/__webpack_require__.n(external_react_)
     unlink: 'Unlink',
     hr: 'Horizontal Line',
     media: 'Media',
-    mediaLibirary: 'Media Libirary',
+    mediaLibirary: 'Add new media (image, embed video).',
     emoji: 'Emoji'
   },
   linkEditor: {

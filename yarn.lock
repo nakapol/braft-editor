@@ -1170,7 +1170,7 @@ braft-convert@^2.1.4:
 
 "braft-finder@https://github.com/nakapol/braft-finder":
   version "0.0.10"
-  resolved "https://github.com/nakapol/braft-finder#aaeb567a580cd2e5d9671ea2ff4aef76712d94fb"
+  resolved "https://github.com/nakapol/braft-finder#73ec5eff2e7885346523ea7d15a1feddf68b6e42"
 
 braft-utils@^0.0.23:
   version "0.0.23"
